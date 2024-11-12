@@ -1,0 +1,13 @@
+flask
+fastapi
+openai
+torch
+transformers
+librosa
+soundfile
+numpy
+pydub
+coqui-tts
+whisper
+requests
+
